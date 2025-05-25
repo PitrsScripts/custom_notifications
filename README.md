@@ -20,7 +20,7 @@ TriggerEvent('custom-notifications:client:notify', 'Message', 'error', 3000)
 
 
 ### Test Command
-```
+
 /testnotify
-```
-This command will show all notification types (success, error, warning, info) with differen
+
+This command will show all notification types (success, error, warning, info)
